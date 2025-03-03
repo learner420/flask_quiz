@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "22"],
+        "answer": "4"
+    },
+    {
+        "id": 2,
+        "question": "The capital of France is?",
+        "options": ["London", "Paris", "Rome", "Berlin"],
+        "answer": "Paris"
+    },
+    {
+        "id": 3,
+        "question": "Which of these is a mammal?",
+        "options": ["Shark", "Dolphin", "Eagle", "Turtle"],
+        "answer": "Dolphin"
+    }
+]
