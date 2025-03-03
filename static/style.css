@@ -56,3 +56,52 @@ button:hover {
     font-size: 18px;
     font-weight: bold;
 }
+
+/* Make radio buttons larger */
+input[type="radio"] {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+/* Improve spacing and touch area for labels */
+label {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+/* Make the submit button bigger */
+button[type="submit"] {
+    font-size: 20px;
+    padding: 12px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    max-width: 300px;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Ensure responsiveness */
+@media (max-width: 600px) {
+    label {
+        font-size: 20px;
+    }
+
+    input[type="radio"] {
+        width: 24px;
+        height: 24px;
+    }
+
+    button[type="submit"] {
+        font-size: 22px;
+        padding: 14px;
+    }
+}
