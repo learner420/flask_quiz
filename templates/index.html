@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz Application</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h1>Quiz Application</h1>
+  <form id="quiz-form">
+    {% for q in questions %}
+      <div class="question">
+        <p>{{ q.question }}</p>
+        {% for option in q.options %}
+          <label>
+            <!-- The name includes the question ID, ensuring a unique group per question -->
+            <input type="radio" name="q{{ q.id }}" value="{{ option }}"> {{ option }}
+          </label><br>
+        {% endfor %}
+      </div>
+    {% endfor %}
+    <button type="submit">Submit</button>
+  </form>
+
+  <!-- Area to display the quiz result -->
+  <p id="result"></p>
+
+  <script>
+    // Handle form submission with JavaScript (prevent page reload)
+    document.getElementById('quiz-form').addEventListener('submit', function(event) {
+      event.preventDefault();  // Prevent the form from submitting the traditional way
+      // Collect form data
+      const formData = new FormData(event.target);
+      // Send the form data to the /submit route via POST
+      fetch("/submit", {
+        method: "POST",
+        body: formData
+      })
+      .then(response => response.json())
+      .then(data => {
+        // Display the returned score on the page
+        document.getElementById('result').textContent = "Your score: " + data.score;
+      });
+    });
+  </script>
+</body>
+</html>
