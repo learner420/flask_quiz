@@ -1,20 +1,62 @@
 [
     {
         "id": 1,
-        "question": "What is 2 + 2?",
-        "options": ["3", "4", "5", "22"],
-        "answer": "4"
+        "question": "Which of the following is not a financial statement?",
+        "options": ["Cost sheet", "Balance sheet", "Profit and Loss account", "Statement of retained earnings"],
+        "answer": "Cost sheet"
     },
     {
         "id": 2,
-        "question": "The capital of France is?",
-        "options": ["London", "Paris", "Rome", "Berlin"],
-        "answer": "Paris"
+        "question": "Statement of retained earnings is also known as?",
+        "options": ["Balance sheet", "Profit and Loss account", "Trading and Manufacturing account", "All the above"],
+        "answer": "Profit and Loss account"
     },
     {
         "id": 3,
-        "question": "Which of these is a mammal?",
-        "options": ["Shark", "Dolphin", "Eagle", "Turtle"],
-        "answer": "Dolphin"
+        "question": "_____ and _____ are competing goals for the finance manager.",
+        "options": ["Liquidity, profitability", "Finance, debt", "Investment, dividend", "Finance, dividend"],
+        "answer": "Investment, dividend"
+    },
+    {
+        "id": 4,
+        "question": "Officer appointed by court or govt. under statute may conduct?",
+        "options": ["External analysis", "Internal analysis", "Horizontal analysis", "Vertical analysis"],
+        "answer": "Internal analysis"
+    },
+    {
+        "id": 5,
+        "question": "To determine the liquidity position of the firm ___ analysis will be undertaken?",
+        "options": ["Profitability analysis", "Short-term debt analysis", "Liquidity analysis", "Long-term debt analysis"],
+        "answer": "Short-term debt analysis"
+    },
+    {
+        "id": 6,
+        "question": "Evaluation is done for several years simultaneously at a time for making conclusions is called?",
+        "options": ["Horizontal analysis", "Long-term analysis", "Internal analysis", "Common size analysis"],
+        "answer": "Horizontal analysis"
+    },
+    {
+        "id": 7,
+        "question": "The figures shown in financial statements are converted to percentages so as to establish each element to the total figures of the statement are called?",
+        "options": ["Index numbers", "Common-size statement", "Trend ratios", "Comparative financial statement"],
+        "answer": "Common-size statement"
+    },
+    {
+        "id": 8,
+        "question": "Which of the following is a limitation of financial statements?",
+        "options": ["Provide information for economic decisions", "Provide information about performance of an enterprise", "Providing information about financial position (liquidity/solvency)", "The net income disclosed by the P&L a/c is not absolute but only relative"],
+        "answer": "The net income disclosed by the P&L a/c is not absolute but only relative"
+    },
+    {
+        "id": 9,
+        "question": "Financial statement analysis means?",
+        "options": ["Study of analysis", "Study of relationship among various factors in a business as disclosed by financial statements", "Study of profitability analysis", "Study of investment and accounting policies of the enterprise"],
+        "answer": "Study of relationship among various factors in a business as disclosed by financial statements"
+    },
+    {
+        "id": 10,
+        "question": "The calculation of trend ratios are based on statistical technique called?",
+        "options": ["Index numbers", "Common-size statement", "Inter-firm comparison", "Comparative financial statement"],
+        "answer": "Index numbers"
     }
 ]
