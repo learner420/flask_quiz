@@ -1,167 +1,278 @@
 [
+  {
+    "id": 1,
+    "question": "A flow of funds takes place only if:",
+    "options": [
+      "Transactions which involve only current accounts",
+      "Transactions which involve only non-current accounts",
+      "Transactions which involve one current account and one non-current account",
+      "All the above"
+    ],
+    "answer": "Transactions which involve one current account and one non-current account"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a source of funds?",
+    "options": [
+      "An increase in an asset over the year",
+      "A decrease in an asset over the year",
+      "A decrease in a liability over the year",
+      "All the above"
+    ],
+    "answer": "A decrease in an asset over the year"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is an application of funds?",
+    "options": [
+      "An increase in an asset over the year",
+      "A decrease in an asset over the year",
+      "A increase in a liability over the year",
+      "All the above"
+    ],
+    "answer": "An increase in an asset over the year"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a non-current asset?",
+    "options": [
+      "Stock of raw materials",
+      "Bills Receivable",
+      "Plant and machinery",
+      "Sundry debtors"
+    ],
+    "answer": "Plant and machinery"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is NOT a source of funds?",
+    "options": [
+      "Issue of share capital",
+      "Long term loan raised",
+      "Retained earnings during the year",
+      "Purchase of land"
+    ],
+    "answer": "Purchase of land"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is NOT an application of funds?",
+    "options": [
+      "Purchase of land",
+      "Repayment of preferential capital",
+      "Sale of fixed asset",
+      "Loss from operations"
+    ],
+    "answer": "Sale of fixed asset"
+  },
+  {
+    "id": 7,
+    "question": "Decrease in working capital in fund flow statement is:",
+    "options": [
+      "Sources of fund",
+      "Application of fund",
+      "Never appear in fund flow statement",
+      "Both (a) and (b)"
+    ],
+    "answer": "Sources of fund"
+  },
+  {
+    "id": 8,
+    "question": "In funds flow statement, _____ are used to find out increase or increase in working capital.",
+    "options": [
+      "Assets and liabilities",
+      "Current assets and current liabilities",
+      "Fixed assets and capital",
+      "Long/short term loans"
+    ],
+    "answer": "Current assets and current liabilities"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following items is/are NOT added back to net profit for computing the amount of funds from operations?",
+    "options": [
+      "Depreciation of machinery",
+      "Goodwill written off",
+      "Profit on sale of old plant and machinery",
+      "All the above"
+    ],
+    "answer": "Profit on sale of old plant and machinery"
+  },
+  {
+    "id": 10,
+    "question": "If net profit is Rs.45,000 after writing off depreciation of Rs. 8,000 then funds from operation will be:",
+    "options": [
+      "Rs 45,000",
+      "Rs.53,000",
+      "Rs.37,000",
+      "Rs. 8,000"
+    ],
+    "answer": "Rs.53,000"
+  },
+  {
+    "id": 11,
+    "question": "The debt component should be used in the capital structure to enhance the return to the equity shareholders is called:",
+    "options": [
+      "Trading on equity",
+      "Total leverage",
+      "Return on investment",
+      "Income gearing"
+    ],
+    "answer": "Trading on equity"
+  },
+  {
+    "id": 12,
+    "question": "A company with a high level of debt component in its capital structure is said to be:",
+    "options": [
+      "Low geared",
+      "High geared",
+      "Geared",
+      "All the above"
+    ],
+    "answer": "High geared"
+  },
+  {
+    "id": 13,
+    "question": "____ refers to the ability of a firm in employing long-term funds having a fixed interest to enhance returns to the owners.",
+    "options": [
+      "Interest burden of the firm",
+      "Total leverage",
+      "Leverage",
+      "Degree of operating leverage"
+    ],
+    "answer": "Leverage"
+  },
+  {
+    "id": 14,
+    "question": "The excess of current assets over current liabilities is known as:",
+    "options": [
+      "Net working capital",
+      "Working capital",
+      "Core working capital",
+      "Temporary capital"
+    ],
+    "answer": "Net working capital"
+  },
+  {
+    "id": 15,
+    "question": "The process of ascertainment of present value of future cash flows is known as:",
+    "options": [
+      "Present value",
+      "Net Present value",
+      "Discounting",
+      "Time value of money"
+    ],
+    "answer": "Discounting"
+  },
+  {
+    "id": 16,
+    "question": "_____ means the rate of return earned on a security if it is held till maturity.",
+    "options": [
+      "Yield to maturity",
+      "Rate of maturity",
+      "ROI",
+      "Present value"
+    ],
+    "answer": "Yield to maturity"
+  },
+  {
+    "id": 17,
+    "question": "The rate of interest adjusted for inflation is known as:",
+    "options": [
+      "Nominal rate of interest",
+      "Real rate of interest",
+      "Simple rate of interest",
+      "Term structure of interest"
+    ],
+    "answer": "Real rate of interest"
+  },
+  {
+    "id": 18,
+    "question": "_____ is an annuity where the first payment is delayed beyond one year.",
+    "options": [
+      "Future value of ordinary annuity",
+      "Present value of ordinary annuity",
+      "Deferred annuity",
+      "Real annuity"
+    ],
+    "answer": "Deferred annuity"
+  },
+  {
+    "id": 19,
+    "question": "_____ is an equal cash flow for an indefinite period and in such case the principal is never paid.",
+    "options": [
+      "Perpetuity",
+      "Current yield",
+      "Deferred annuity",
+      "Annuity"
+    ],
+    "answer": "Perpetuity"
+  },
+  {
+    "id": 20,
+    "question": "------- is the rate used in project evaluation to determine the present value of past investment or cash flows.",
+    "options": [
+      "Capitalizing rate",
+      "Discounting",
+      "Time value of money",
+      "Compounding rate"
+    ],
+    "answer": "Compounding rate"
+  },
+   {
+    "id": 21,
+    "question": "____is the rate applied in the reverse process of discriminating the present value of future cash flows.",
+    "options": [
+      "Capitalizing rate",
+      "Discounting",
+      "Time value of money",
+      "Compounding rate"
+    ],
+    "answer": "Capitalizing rate"
+  },
+   {
+    "id": 22,
+    "question": "The important financial principle is that the value of money is time dependent and this principle is based on which of the following reason",
+    "options": [
+      "Personal consumption preference and inflation",
+      "Risk",
+      "Investment opportunities",
+      "All the above"
+    ],
+    "answer": "All the above"
+  },
     {
-        "id": 1,
-        "question": "Which of the following is considered the biggest barrier to rural development in developing countries?",
-        "options": [
-            "Lack of skilled labor",
-            "Political instability",
-            "Low agricultural productivity",
-            "Inadequate rural financing"
-        ],
-        "answer": "B"
-    },
-    {
-        "id": 2,
-        "question": "Which economic theory suggests that rural underdevelopment is a result of surplus labor being underutilized?",
-        "options": [
-            "Dual-sector model",
-            "Dependency theory",
-            "Endogenous growth theory",
-            "Human capital theory"
-        ],
-        "answer": "A"
-    },
-    {
-        "id": 3,
-        "question": "What is the primary objective of the Integrated Rural Development Programme (IRDP)?",
-        "options": [
-            "Promote agricultural mechanization",
-            "Alleviate rural poverty through self-employment",
-            "Improve rural literacy rates",
-            "Increase rural electrification"
-        ],
-        "answer": "B"
-    },
-    {
-        "id": 4,
-        "question": "Which factor is NOT a major contributor to rural-urban migration?",
-        "options": [
-            "Lack of job opportunities in rural areas",
-            "Poor healthcare facilities in villages",
-            "Higher wages in urban centers",
-            "Lower crime rates in rural areas"
-        ],
-        "answer": "D"
-    },
-    {
-        "id": 5,
-        "question": "Which of the following best defines 'unfelt needs' in the context of rural development?",
-        "options": [
-            "Needs that rural communities are unaware of",
-            "Basic necessities that are inaccessible",
-            "Government-imposed policies for development",
-            "Social needs fulfilled through local governance"
-        ],
-        "answer": "A"
-    },
-    {
-        "id": 6,
-        "question": "Which of the following is the most effective approach to ensuring sustainable rural development?",
-        "options": [
-            "Government subsidies for agriculture",
-            "Corporate investment in rural areas",
-            "Community-led participatory development",
-            "Expansion of urban infrastructure into rural areas"
-        ],
-        "answer": "C"
-    },
-    {
-        "id": 7,
-        "question": "Which of the following is a fundamental challenge to financial inclusion in rural areas?",
-        "options": [
-            "High levels of digital illiteracy",
-            "Lack of cash flow in rural banks",
-            "Over-regulation of banking in rural economies",
-            "Lack of demand for financial services"
-        ],
-        "answer": "A"
-    },
-    {
-        "id": 8,
-        "question": "Which UN Sustainable Development Goal (SDG) directly addresses rural poverty and development?",
-        "options": [
-            "SDG 1: No Poverty",
-            "SDG 5: Gender Equality",
-            "SDG 7: Affordable and Clean Energy",
-            "SDG 11: Sustainable Cities and Communities"
-        ],
-        "answer": "A"
-    },
-    {
-        "id": 9,
-        "question": "Which of the following is NOT a characteristic of traditional rural economies?",
-        "options": [
-            "High dependency on subsistence agriculture",
-            "Limited access to markets",
-            "High penetration of digital services",
-            "Strong community-based resource management"
-        ],
-        "answer": "C"
-    },
-    {
-        "id": 10,
-        "question": "What is the primary reason behind the slow adoption of technology in rural farming?",
-        "options": [
-            "Resistance from older farmers",
-            "High costs and lack of access to credit",
-            "Availability of traditional farming knowledge",
-            "Low yield improvement from new technology"
-        ],
-        "answer": "B"
-    },
-    {
-        "id": 11,
-        "question": "Which is the most significant environmental challenge affecting rural livelihoods?",
-        "options": [
-            "Deforestation",
-            "Urban sprawl",
-            "Air pollution",
-            "Ocean acidification"
-        ],
-        "answer": "A"
-    },
-    {
-        "id": 12,
-        "question": "Which of the following policies is most effective for promoting rural entrepreneurship?",
-        "options": [
-            "Reducing agricultural land tax",
-            "Providing microfinance and business training",
-            "Encouraging urban migration",
-            "Banning foreign investments in rural areas"
-        ],
-        "answer": "B"
-    },
-    {
-        "id": 13,
-        "question": "Which institution is primarily responsible for rural credit and financial assistance in India?",
-        "options": [
-            "Reserve Bank of India (RBI)",
-            "National Bank for Agriculture and Rural Development (NABARD)",
-            "State Bank of India (SBI)",
-            "World Bank"
-        ],
-        "answer": "B"
-    },
-    {
-        "id": 14,
-        "question": "Which of the following rural development strategies is most likely to fail in the long run?",
-        "options": [
-            "Introducing high-yield crops with government support",
-            "Providing vocational training to rural youth",
-            "Developing rural roads to enhance connectivity",
-            "Over-reliance on government subsidies"
-        ],
-        "answer": "D"
-    },
-    {
-        "id": 15,
-        "question": "Which factor contributes the most to rural gender inequality?",
-        "options": [
-            "Limited property rights for women",
-            "Lack of male participation in agriculture",
-            "High wages in rural employment",
-            "Over-representation of women in politics"
-        ],
-        "answer": "A"
-    }
+    "id": 23,
+    "question": "The suggested standard debt-equity ratio is",
+    "options": [
+      "3:2",
+      "1:1",
+      "2:1",
+      "1:2"
+    ],
+    "answer": "2:1"
+  },
+  {
+    "id": 24,
+    "question": "The basic objective of financial management is to maximize the:",
+    "options": [
+      "Long term funds for the company",
+      "Wealth of shareholders",
+      "Capital fund",
+      "Assets of the firm"
+    ],
+    "answer": "Wealth of shareholders"
+  },
+  {
+    "id": 25,
+    "question": "The optimum capital structure __________ the firm's overall cost of capital and ______ the value of the firm.",
+    "options": [
+      "Maximize, minimize",
+      "Minimize, lease",
+      "Maximize, enhance",
+      "Minimize, maximize"
+    ],
+    "answer": "Minimize, maximize"
+  }
 ]
+```
