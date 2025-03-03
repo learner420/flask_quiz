@@ -10,7 +10,7 @@
   <form id="quiz-form">
     {% for q in questions %}
       <div class="question">
-        <p>{{ q.question }}</p>
+        <p>{{ q.id }}.{{q.question}}</p>
         {% for option in q.options %}
           <label>
             <!-- The name includes the question ID, ensuring a unique group per question -->
