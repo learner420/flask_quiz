@@ -1,62 +1,82 @@
 [
-    {
-        "id": 1,
-        "question": "Which of the following is not a financial statement?",
-        "options": ["Cost sheet", "Balance sheet", "Profit and Loss account", "Statement of retained earnings"],
-        "answer": "Cost sheet"
-    },
-    {
-        "id": 2,
-        "question": "Statement of retained earnings is also known as?",
-        "options": ["Balance sheet", "Profit and Loss account", "Trading and Manufacturing account", "All the above"],
-        "answer": "Profit and Loss account"
-    },
-    {
-        "id": 3,
-        "question": "_____ and _____ are competing goals for the finance manager.",
-        "options": ["Liquidity, profitability", "Finance, debt", "Investment, dividend", "Finance, dividend"],
-        "answer": "Investment, dividend"
-    },
-    {
-        "id": 4,
-        "question": "Officer appointed by court or govt. under statute may conduct?",
-        "options": ["External analysis", "Internal analysis", "Horizontal analysis", "Vertical analysis"],
-        "answer": "Internal analysis"
-    },
-    {
-        "id": 5,
-        "question": "To determine the liquidity position of the firm ___ analysis will be undertaken?",
-        "options": ["Profitability analysis", "Short-term debt analysis", "Liquidity analysis", "Long-term debt analysis"],
-        "answer": "Short-term debt analysis"
-    },
-    {
-        "id": 6,
-        "question": "Evaluation is done for several years simultaneously at a time for making conclusions is called?",
-        "options": ["Horizontal analysis", "Long-term analysis", "Internal analysis", "Common size analysis"],
-        "answer": "Horizontal analysis"
-    },
-    {
-        "id": 7,
-        "question": "The figures shown in financial statements are converted to percentages so as to establish each element to the total figures of the statement are called?",
-        "options": ["Index numbers", "Common-size statement", "Trend ratios", "Comparative financial statement"],
-        "answer": "Common-size statement"
-    },
-    {
-        "id": 8,
-        "question": "Which of the following is a limitation of financial statements?",
-        "options": ["Provide information for economic decisions", "Provide information about performance of an enterprise", "Providing information about financial position (liquidity/solvency)", "The net income disclosed by the P&L a/c is not absolute but only relative"],
-        "answer": "The net income disclosed by the P&L a/c is not absolute but only relative"
-    },
-    {
-        "id": 9,
-        "question": "Financial statement analysis means?",
-        "options": ["Study of analysis", "Study of relationship among various factors in a business as disclosed by financial statements", "Study of profitability analysis", "Study of investment and accounting policies of the enterprise"],
-        "answer": "Study of relationship among various factors in a business as disclosed by financial statements"
-    },
-    {
-        "id": 10,
-        "question": "The calculation of trend ratios are based on statistical technique called?",
-        "options": ["Index numbers", "Common-size statement", "Inter-firm comparison", "Comparative financial statement"],
-        "answer": "Index numbers"
-    }
+{
+"id": 11,
+"question": "Stock turnover ratio is calculated?",
+"options": [
+"Turnover of sales/closing stock",
+"Turnover of purchases/Average Stock",
+"Cost of goods sold/Average Stock",
+"Cost of goods purchases/Average Stock"
+],
+"answer": "Cost of goods sold/Average Stock"
+},
+{
+"id": 12,
+"question": "If the current ratio is 2:1 and the current liabilities is Rs.60,000, then what is the amount of current asset?",
+"options": ["60,000", "30,000", "1,20,000", "20,000"],
+"answer": "30,000"
+},
+{
+"id": 13,
+"question": "Debt-equity ratio is calculated?",
+"options": [
+"Long-term debt/shareholder funds",
+"Short-term debt/shareholder funds",
+"Current assets/current liabilities",
+"Shareholder funds/long-term debt"
+],
+"answer": "Long-term debt/shareholder funds"
+},
+{
+"id": 14,
+"question": "Defensive internal ratio is calculated?",
+"options": [
+"Projected daily cash requirement/liquid assets",
+"Liquid assets/liquid liabilities",
+"Liquid liabilities/projected daily cash requirement",
+"Liquid assets/projected daily cash requirement"
+],
+"answer": "Liquid assets/projected daily cash requirement"
+},
+{
+"id": 15,
+"question": "Capital gearing ratio is calculated?",
+"options": [
+"Fixed interest bearing funds/preference share holders funds",
+"Fixed interest bearing funds/equity shareholders funds",
+"Preference share holders funds/fixed interest bearing funds",
+"Equity shareholders funds/fixed interest bearing funds"
+],
+"answer": "Fixed interest bearing funds/equity shareholders funds"
+},
+{
+"id": 16,
+"question": "To express the relationship between shareholders net worth and total assets (i.e., shareholders net worth/total assets) represents?",
+"options": ["Proprietary Ratio", "Liquidity Ratio", "Shareholders equity Ratio", "Debt-equity Ratio"],
+"answer": "Proprietary Ratio"
+},
+{
+"id": 17,
+"question": "_____ ratio shows how many times interest charges are covered by funds that are available for payment of interest?",
+"options": ["Debt service coverage ratio", "Interest cover ratio", "Liquidity Ratio", "Proprietary Ratio"],
+"answer": "Interest cover ratio"
+},
+{
+"id": 18,
+"question": "_____ ratio indicates to the lender to assess the ability of the borrower to pay interest and repayment of loan installment?",
+"options": ["Debt service coverage ratio", "Interest cover ratio", "Liquidity Ratio", "Dividend cover Ratio"],
+"answer": "Debt service coverage ratio"
+},
+{
+"id": 19,
+"question": "The Debtors turnover ratio is calculated?",
+"options": ["Credit sales/average debtors", "Cash sales/average debtors", "Average debtors/sales", "Average debtors/purchases"],
+"answer": "Credit sales/average debtors"
+},
+{
+"id": 20,
+"question": "_____ shows the average time taken to pay for goods and services purchased by the company?",
+"options": ["Debtors payment period", "Creditors payment period", "Long term debt payment period", "Creditor turnover period"],
+"answer": "Creditors payment period"
+}
 ]
