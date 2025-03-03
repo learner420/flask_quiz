@@ -1,6 +1,6 @@
 [
     {
-        "Qno": 1,
+        "q": 1,
         "question": "Which of the following is considered the biggest barrier to rural development in developing countries?",
         "options": [
             "Lack of skilled labor",
@@ -11,7 +11,7 @@
         "answer": "B"
     },
     {
-        "Qno": 2,
+        "q": 2,
         "question": "Which economic theory suggests that rural underdevelopment is a result of surplus labor being underutilized?",
         "options": [
             "Dual-sector model",
@@ -22,7 +22,7 @@
         "answer": "A"
     },
     {
-        "Qno": 3,
+        "q": 3,
         "question": "What is the primary objective of the Integrated Rural Development Programme (IRDP)?",
         "options": [
             "Promote agricultural mechanization",
@@ -33,7 +33,7 @@
         "answer": "B"
     },
     {
-        "Qno": 4,
+        "q": 4,
         "question": "Which factor is NOT a major contributor to rural-urban migration?",
         "options": [
             "Lack of job opportunities in rural areas",
@@ -44,7 +44,7 @@
         "answer": "D"
     },
     {
-        "Qno": 5,
+        "q": 5,
         "question": "Which of the following best defines 'unfelt needs' in the context of rural development?",
         "options": [
             "Needs that rural communities are unaware of",
@@ -55,7 +55,7 @@
         "answer": "A"
     },
     {
-        "Qno": 6,
+        "q": 6,
         "question": "Which of the following is the most effective approach to ensuring sustainable rural development?",
         "options": [
             "Government subsidies for agriculture",
@@ -66,7 +66,7 @@
         "answer": "C"
     },
     {
-        "Qno": 7,
+        "q": 7,
         "question": "Which of the following is a fundamental challenge to financial inclusion in rural areas?",
         "options": [
             "High levels of digital illiteracy",
@@ -77,7 +77,7 @@
         "answer": "A"
     },
     {
-        "Qno": 8,
+        "q": 8,
         "question": "Which UN Sustainable Development Goal (SDG) directly addresses rural poverty and development?",
         "options": [
             "SDG 1: No Poverty",
@@ -88,7 +88,7 @@
         "answer": "A"
     },
     {
-        "Qno": 9,
+        "q": 9,
         "question": "Which of the following is NOT a characteristic of traditional rural economies?",
         "options": [
             "High dependency on subsistence agriculture",
@@ -99,7 +99,7 @@
         "answer": "C"
     },
     {
-        "Qno": 10,
+        "q": 10,
         "question": "What is the primary reason behind the slow adoption of technology in rural farming?",
         "options": [
             "Resistance from older farmers",
@@ -110,7 +110,7 @@
         "answer": "B"
     },
     {
-        "Qno": 11,
+        "q": 11,
         "question": "Which is the most significant environmental challenge affecting rural livelihoods?",
         "options": [
             "Deforestation",
@@ -121,7 +121,7 @@
         "answer": "A"
     },
     {
-        "Qno": 12,
+        "q": 12,
         "question": "Which of the following policies is most effective for promoting rural entrepreneurship?",
         "options": [
             "Reducing agricultural land tax",
@@ -132,7 +132,7 @@
         "answer": "B"
     },
     {
-        "Qno": 13,
+        "q": 13,
         "question": "Which institution is primarily responsible for rural credit and financial assistance in India?",
         "options": [
             "Reserve Bank of India (RBI)",
@@ -143,7 +143,7 @@
         "answer": "B"
     },
     {
-        "Qno": 14,
+        "q": 14,
         "question": "Which of the following rural development strategies is most likely to fail in the long run?",
         "options": [
             "Introducing high-yield crops with government support",
@@ -154,7 +154,7 @@
         "answer": "D"
     },
     {
-        "Qno": 15,
+        "q": 15,
         "question": "Which factor contributes the most to rural gender inequality?",
         "options": [
             "Limited property rights for women",
